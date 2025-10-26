@@ -12,12 +12,7 @@
   <h4>Entre em contato</h4>
   <a href="https://www.linkedin.com/in/sssilvaa/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="40" alt="linkedin" /></a>
   <img width="12" />
- 
 </div>
-
-[ <img src="![Uploading 68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif…]()
-" height="40" alt="css"  />](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)
-
 
 <h2>Starting Projects</h2>
 <img width="1327" height="600" alt="image" src="https://github.com/user-attachments/assets/870c7f7f-7696-4577-b587-96804175f83d" />
