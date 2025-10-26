@@ -1,3 +1,6 @@
+
+<img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+Eu+so+Samuel.;Desenvolvedor Full-stack.;IJSE-+%F0%9F%91%8B%2C+Institute+of+Software+Engineering)](https://git.io/typing-svg)">
+
 <h2>Starting Projects</h2>
 <img width="1327" height="600" alt="image" src="https://github.com/user-attachments/assets/870c7f7f-7696-4577-b587-96804175f83d" />
 <h2>Uma calculadora com várias funções</h2>
