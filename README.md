@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+news+romen&weight=600&size=40&pause=1000&color=1F6B8D&width=435&lines=Eu+sou+Samuel;Desenvolvendor+Full-stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+news+romen&weight=600&size=40&pause=1000&color=1F6B8D&width=435&lines=Eu+sou+Samuel+Pereira+da+Silva;Desenvolvendor+Full-stack" alt="Typing SVG" /></a>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
