@@ -10,7 +10,7 @@
 
 <div align="left">
   <h4>Entre em contato</h4>
-  <a href="https://www.linkedin.com/in/sssilvaa/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/sssilvaa/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" height="40" alt="linkedin" /></a>
   <img width="12" />
  
 </div>
